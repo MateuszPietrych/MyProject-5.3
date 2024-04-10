@@ -15,5 +15,8 @@
 			"Name": "DidItHit",
 			"Enabled": true
 		}
+	],
+	"TargetPlatforms": [
+		"Windows"
 	]
 }
